@@ -1,0 +1,15 @@
+GIMP Palette
+Name: CraftSynth
+Columns: 3
+#
+ 35  35  35 Dark grey
+ 49  49  49 Medium grey
+ 81  81  81 Light grey
+  8  31  49 Dark blue
+ 34  51  68 Light dark blue
+ 20  40  64 Medium blue
+ 39  61  83 Light medium blue
+ 39  72 135 Border blue
+ 48  91 146 Light border blue
+255 255 255 White
+

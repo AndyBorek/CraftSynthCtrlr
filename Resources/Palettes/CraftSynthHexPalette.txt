@@ -1,0 +1,12 @@
+ R   G   B  Name
+ 23  23  23 Dark grey
+ 31  31  31 Medium grey
+ 51  51  51 Light grey
+  8  1F  31 Dark blue
+ 22  33  44 Light dark blue
+ 14  28  40 Medium blue
+ 27  3D  53 Light medium blue
+ 27  48  87 Border blue
+ 30  5B  92 Light border blue
+ FF  FF  FF White
+
